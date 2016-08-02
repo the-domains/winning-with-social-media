@@ -1,16 +1,16 @@
-typography_spectrum: 0.9076456716284156
+typography_spectrum: 0.7214111373759806
 color:
-  brandStrength: 0.7934922848362476
-  lightness: 0.8302103513851762
-  saturation: 0.72781847929582
-  rhythmicContrast: 0.7097853953018785
+  brandStrength: 0.15426967479288578
+  lightness: 0.6209038326051086
+  saturation: 0.7862424524500966
+  rhythmicContrast: 0.07122841593809426
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-layout_spectrum: 0.2560727009549737
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.8054808732122183
 author:
   name: Steve Goad
   email: hsgoad@gmail.com
