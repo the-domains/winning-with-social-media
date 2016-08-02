@@ -1,4 +1,3 @@
-layout_spectrum: 0.2560727009549737
 typography_spectrum: 0.9076456716284156
 color:
   brandStrength: 0.7934922848362476
@@ -11,5 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.2560727009549737
 name: Winning With Social Media
+title: Engage
 description: Putting the Social back into Social Media
