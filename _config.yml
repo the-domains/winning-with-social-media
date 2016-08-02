@@ -11,6 +11,9 @@ color:
     - '#FF8C00'
     - '#04756F'
 layout_spectrum: 0.2560727009549737
+author:
+  name: Steve Goad
+  email: hsgoad@gmail.com
 name: Winning With Social Media
 title: Engage
 description: Putting the Social back into Social Media
